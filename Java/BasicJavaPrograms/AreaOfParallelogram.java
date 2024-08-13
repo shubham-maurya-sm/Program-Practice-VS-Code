@@ -6,7 +6,7 @@ public class AreaOfParallelogram {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter '1' for finding area Using Base and Height ");
-        System.out.println("Enter '2' for finding area Using Trigonometry ");
+        System.out.println("Enter '2' for finding area Using Trigonometry (i.e., using side and angle) ");
         System.out.println("Enter '3' for finding area Using diagonals ");
         System.out.println("Enter Your Option: ");
         int option = sc.nextInt();
