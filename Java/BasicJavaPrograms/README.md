@@ -2,18 +2,18 @@
 
 ### Basic Java Programs
 1. [Area Of Circle Java Program](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/AreaOfCircle.java)
-2. Area Of Triangle
-3. Area Of Rectangle Program 
-4. Area Of Isosceles Triangle 
-5. Area Of Parallelogram
-6. Area Of Rhombus
-7. Area Of Equilateral Triangle
-8. Perimeter Of Circle
-9. Perimeter Of Equilateral Triangle
-10. Perimeter Of Parallelogram
-11. Perimeter Of Rectangle
-12. Perimeter Of Square
-13. Perimeter Of Rhombus
+2. [Area Of Triangle](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/AreaOfTriangle.java)
+3. [Area Of Rectangle Program](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/AreaOfRectangle.java)
+4. [Area Of Isosceles Triangle](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/AreaOfIscoscelesTriangle.java)
+5. [Area Of Parallelogram](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/AreaOfParallelogram.java)
+6. [Area Of Rhombus](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/AreaOfRhombus.java)
+7. [Area Of Equilateral Triangle](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/AreaOfEquilateralTriangle.java)
+8. [Perimeter Of Circle]
+9. [Perimeter Of Equilateral Triangle]
+10. [Perimeter Of Parallelogram]
+11. [Perimeter Of Rectangle]
+12. [Perimeter Of Square]
+13. [Perimeter Of Rhombus]
 14. Volume Of Cone Java Program
 15. Volume Of Prism
 16. Volume Of Cylinder
