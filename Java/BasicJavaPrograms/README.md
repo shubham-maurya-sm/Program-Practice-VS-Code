@@ -8,24 +8,24 @@
 5. [Area Of Parallelogram](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/AreaOfParallelogram.java)
 6. [Area Of Rhombus](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/AreaOfRhombus.java)
 7. [Area Of Equilateral Triangle](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/AreaOfEquilateralTriangle.java)
-8. [Perimeter Of Circle]
-9. [Perimeter Of Equilateral Triangle]
-10. [Perimeter Of Parallelogram]
-11. [Perimeter Of Rectangle]
-12. [Perimeter Of Square]
-13. [Perimeter Of Rhombus]
-14. Volume Of Cone Java Program
-15. Volume Of Prism
-16. Volume Of Cylinder
-17. Volume Of Sphere
-18. Volume Of Pyramid
-19. Curved Surface Area Of Cylinder
-20. Total Surface Area Of Cube
-21. Fibonacci Series In Java Programs
-22. Subtract the Product and Sum of Digits of an Integer
-23. Input a number and print all the factors of that number (use loops).
-24. Take integer inputs till the user enters 0 and print the sum of all numbers
-(HINT: while loop)
-25. Take integer inputs till the user enters 0 and print the largest number from
-all.
-26. Addition Of Two Numbers
+8. [Perimeter Of Circle](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/PerimeterCircle.java)
+9. [Perimeter Of Equilateral Triangle](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/PerimeterEquilateralTriangle.java)
+10. [Perimeter Of Parallelogram](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/PerimeterParallelogram.java)
+11. [Perimeter Of Rectangle](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/PerimeterRectangle.java)
+12. [Perimeter Of Square](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/PerimeterOfSquare.java)
+13. [Perimeter Of Rhombus](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/PerimeterOfRhombus.java)
+14. [Volume Of Cone Java Program](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/VolumeOfCone.java)
+15. [Volume Of Prism](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/VolumeOfPrism.java)
+16. [Volume Of Cylinder](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/VolumeOfCylinder.java)
+17. [Volume Of Sphere](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/VolumeOfSphere.java)
+18. [Volume Of Pyramid](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/VolumeOfPrism.java)
+19. [Curved Surface Area Of Cylinder](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/CurvedSurfaceAreaOfCylinder.java)
+20. [Total Surface Area Of Cube](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/TotalSurfaceAreaOfCube.java)
+21. [Fibonacci Series In Java Programs](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/FibonacciSeries.java)
+22. [Subtract the Product and Sum of Digits of an Integer](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/SubtractProductAndAdd.java)
+23. [Input a number and print all the factors of that number (use loops).](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/FindFactors.java)
+24. [Take integer inputs till the user enters 0 and print the sum of all numbers
+(HINT: while loop)](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/SumOfAllNumbers.java)
+25. [Take integer inputs till the user enters 0 and print the largest number from
+all.](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/PrintLargestNumber.java)
+26. [Addition Of Two Numbers](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/BasicJavaPrograms/AddTwoNumbers.java)
