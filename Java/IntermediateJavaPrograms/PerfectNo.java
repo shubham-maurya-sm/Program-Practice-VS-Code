@@ -1,5 +1,6 @@
 /*
- A perfect number is a positive integer that equals the sum of its proper divisors (excluding the number itself). For example, 6 is a perfect number because the sum of its proper divisors (1, 2, and 3) is equal to 6: 1+2+3=6 
+ A perfect number is a positive integer that equals the sum of its proper divisors (excluding the number itself). 
+ For example, 6 is a perfect number because the sum of its proper divisors (1, 2, and 3) is equal to 6: 1+2+3=6 
 
  Some well-known perfect numbers include 6, 28, 496, and 8128
  
