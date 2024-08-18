@@ -1,6 +1,6 @@
 # Intermediate Java Programs
 
-1. Factorial Program In Java
+1. [Factorial Program In Java](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/IntermediateJavaPrograms/Factorial.java)
 2. Calculate Electricity Bill
 3. Calculate Average Of N Numbers
 4. Calculate Discount Of Product
