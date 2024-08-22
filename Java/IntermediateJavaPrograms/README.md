@@ -21,7 +21,7 @@
 19. HCF Of Two Numbers Program
 20. LCM Of Two Numbers
 21. Java Program Vowel Or Consonant 
-22. Perfect Number In Java
+22. [Perfect Number In Java](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/IntermediateJavaPrograms/PerfectNo.java)
 23. [Check Leap Year Or Not](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/IntermediateJavaPrograms/LeapYear.java)
 24. [Sum Of A Digits Of Number](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/IntermediateJavaPrograms/SumOfDigits.java)
 25. [Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/IntermediateJavaPrograms/GoOutOnEvenDaysOfMonth.java)
