@@ -30,15 +30,19 @@ Print these patterns using loops:
     ***
     **
     *
+```
+[Pattern 4](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/Patterns/Pattern_04.java)
 
-
+```text
 4.  1
     1 2
     1 2 3
     1 2 3 4
     1 2 3 4 5
+```
+[Pattern 5](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/Patterns/Pattern_05.java)
 
-
+```text
 5.  *
     **
     ***
@@ -48,7 +52,10 @@ Print these patterns using loops:
     ***
     **
     *
+```
+[Pattern 6](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/Patterns/Pattern_06.java)
 
+```text
 
 6.       *
         **
@@ -56,34 +63,50 @@ Print these patterns using loops:
       ****
      *****
 
+```
+[Pattern 7](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/Patterns/Pattern_07.java)
 
+```text
 7.   *****
       ****
        ***
         **
          *
 
+```
+[Pattern 8](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/Patterns/Pattern_08.java)
+
+```text
 
 8.      *
        ***
       *****
      *******
     *********
+```
+[Pattern 9](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/Patterns/Pattern_09.java)
 
+```text
 
 9.  *********
      *******
       *****
        ***
         *
+```
+[Pattern 10](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/Patterns/Pattern_10.java)
 
+```text
 
 10.      *
         * *
        * * *
       * * * *
      * * * * *
+```
+[Pattern 11](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/Patterns/Pattern_11.java)
 
+```text
 
 11.  * * * * *
       * * * *
