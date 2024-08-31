@@ -1,6 +1,6 @@
-Pattern Questions
+# Pattern Questions
 
-Print these patterns using loops:
+## Print these patterns using loops:
 
 [Pattern 1](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/Patterns/Pattern_01.java)
 ```text
