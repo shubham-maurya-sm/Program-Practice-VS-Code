@@ -10,7 +10,7 @@ Print these patterns using loops:
     *****
     *****
 ```
-[](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/Patterns/Pattern_01.java)
+[Pattern 1](https://github.com/shubham-maurya-sm/Program-Practice-VS-Code/blob/main/Java/Patterns/Pattern_01.java)
 ```text
 2.  *
     **
